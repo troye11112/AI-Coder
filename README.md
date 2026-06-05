@@ -1,4 +1,4 @@
-# Pormpt Forge
+# Prompt Forge
 
 Pormpt Forge 是一个基于 Spring Boot 3 和 LangChain4j 的 AI 零代码应用生成后端服务。用户输入应用需求后，系统会创建应用记录，自动判断代码生成类型，并通过 SSE 流式接口驱动大模型生成 HTML、多文件原生项目或 Vue 工程项目。生成后的代码会落盘到本地目录，支持在线预览、构建部署、封面截图、源码打包下载和对话历史追踪。
 
